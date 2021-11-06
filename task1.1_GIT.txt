@@ -1,0 +1,22 @@
+a00bdb8 HEAD@{0}: checkout: moving from 65d4586367ce9d33ee9a312bfc9af6ca13fa61fa to master
+65d4586 HEAD@{1}: checkout: moving from master to 65d4586
+a00bdb8 HEAD@{2}: checkout: moving from images to master
+175be43 HEAD@{3}: checkout: moving from develop to images
+a00bdb8 HEAD@{4}: checkout: moving from master to develop
+a00bdb8 HEAD@{5}: checkout: moving from images to master
+175be43 HEAD@{6}: checkout: moving from styles to images
+65d4586 HEAD@{7}: checkout: moving from master to styles
+a00bdb8 HEAD@{8}: merge develop: Fast-forward
+bb7a822 HEAD@{9}: checkout: moving from develop to master
+a00bdb8 HEAD@{10}: merge styles: Merge made by the 'recursive' strategy.
+175be43 HEAD@{11}: merge images: Fast-forward
+b311e32 HEAD@{12}: checkout: moving from styles to develop
+65d4586 HEAD@{13}: commit: yes
+fa7e398 HEAD@{14}: commit: add
+b311e32 HEAD@{15}: checkout: moving from develop to styles
+b311e32 HEAD@{16}: checkout: moving from images to develop
+175be43 HEAD@{17}: commit: change index add 2 file
+b5b01cb HEAD@{18}: commit: add 2 image
+bb7a822 HEAD@{19}: checkout: moving from master to images
+bb7a822 HEAD@{20}: commit: add
+b311e32 HEAD@{21}: commit (initial): add fiel
