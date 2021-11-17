@@ -2,8 +2,9 @@
 ![alt text](/m1/task3.2/screenshots/1.png "Описание будет тут")
 ### check gateway
 ![alt text](/m1/task3.2/screenshots/2.png "Описание будет тут")
-
+### check gateway
 ![alt text](/m1/task3.2/screenshots/3.png "Описание будет тут")
+
 ![alt text](/m1/task3.2/screenshots/4.png "Описание будет тут")
 ![alt text](/m1/task3.2/screenshots/5.png "Описание будет тут")
 ![alt text](/m1/task3.2/screenshots/6a.png "Описание будет тут") \
