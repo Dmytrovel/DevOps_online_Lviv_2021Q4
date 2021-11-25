@@ -19,7 +19,7 @@
 ## user user can add to table
 ![alt text](/m1/task4.1/screenshots/10.png) 
 
-## add user2 inserting to databese cars and tables customer
+## create user2 with only access to table customer
 ![alt text](/m1/task4.1/screenshots/13.png) 
 ## user2 dont have acces to table delivery
 ![alt text](/m1/task4.1/screenshots/14.png) 
@@ -29,7 +29,7 @@
 ![alt text](/m1/task4.1/screenshots/www.png) 
 ## delete customer table
 ![alt text](/m1/task4.1/screenshots/17.png) 
-## restore chack
+## restore and check
 ![alt text](/m1/task4.1/screenshots/18.png) 
 ## create mysql rds
 ![alt text](/m1/task4.1/screenshots/19.png) 
