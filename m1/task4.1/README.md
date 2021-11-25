@@ -14,7 +14,7 @@
 ![alt text](/m1/task4.1/screenshots/7.png) 
 ## INSERT INTO table dml
 ![alt text](/m1/task4.1/screenshots/8.png) 
-## create user add all proviliges
+## create user and add all proviliges
 ![alt text](/m1/task4.1/screenshots/9.png) 
 ## user user can add to table
 ![alt text](/m1/task4.1/screenshots/10.png) 
