@@ -18,10 +18,7 @@
 ![alt text](/m1/task4.1/screenshots/9.png) 
 ## user user can add to table
 ![alt text](/m1/task4.1/screenshots/10.png) 
-## create user1 with with root access
-![alt text](/m1/task4.1/screenshots/11.png) 
-## user can create not change or add
-![alt text](/m1/task4.1/screenshots/12.png) 
+
 ## add user2 inserting to databese cars and tables customer
 ![alt text](/m1/task4.1/screenshots/13.png) 
 ## user2 dont have acces to table delivery
