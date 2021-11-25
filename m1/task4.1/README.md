@@ -29,7 +29,7 @@
 ## Make a selection from the main table DB MySQL
 ![alt text](/m1/task4.1/screenshots/15.png) 
 ## make backup db cars
-![alt text](/m1/task4.1/screenshots/16.png) 
+![alt text](/m1/task4.1/screenshots/www.png) 
 ## delete customer table
 ![alt text](/m1/task4.1/screenshots/17.png) 
 ## restore chack
