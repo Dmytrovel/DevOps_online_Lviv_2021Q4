@@ -7,19 +7,19 @@ Stopped (T)
 Zombie (Z)
 
 ##### 2. Examine the pstree command. Make output (highlight) the chain (ancestors) of the current process.
-![alt text](/m1/task5.2/screenshots/2.png) 
+![alt text](/m1/task5.3/screenshots/2.png) 
 
 
 ##### 3. What is a proc file system?
 Proc fs is virtual file system, that presents information about processes and other system information 
 
 ##### 4. Print information about the processor (its type, supported technologies, etc.).
-![alt text](/m1/task5.2/screenshots/3.png) 
+![alt text](/m1/task5.3/screenshots/3.png) 
 
 ##### 5. Use the ps command to get information about the process. The information should be as
 ##### follows: the owner of the process, the arguments with which the process was launched for
 ##### execution, the group owner of this process, etc.
-![alt text](/m1/task5.2/screenshots/4.png) 
+![alt text](/m1/task5.3/screenshots/4.png) 
 
 ##### 6. How to define kernel processes and user processes?
 By prices id more then 1000
@@ -31,9 +31,9 @@ By prices id more then 1000
 ## I Idle kernel thread
 ## R running 
 ## R+ running +  is in the foreground process group
-![alt text](/m1/task5.2/screenshots/5.png) 
+![alt text](/m1/task5.3/screenshots/5.png) 
 ##### 8. Display only the processes of a specific user
-![alt text](/m1/task5.2/screenshots/6.png) 
+![alt text](/m1/task5.3/screenshots/6.png) 
 
 ##### 9. What utilities can be used to analyze existing running tasks (by analyzing the help for the ps command)?
 ## top
@@ -62,9 +62,9 @@ By prices id more then 1000
 ##### 13. Sort the contents of the processes window using various parameters (for example, the
 ##### amount of processor time taken up, etc.)
 ## sort cpu 
-![alt text](/m1/task5.2/screenshots/13cpu.png) 
+![alt text](/m1/task5.3/screenshots/13cpu.png) 
 ## sort ram
-![alt text](/m1/task5.2/screenshots/13mem.png) 
+![alt text](/m1/task5.3/screenshots/13mem.png) 
 
 ##### 14. Concept of priority, what commands are used to set priority?
 ## nice
@@ -99,21 +99,22 @@ By prices id more then 1000
 ##### 2. Implement basic SSH settings to increase the security of the client-server connection (at least
 ##### 3. List the options for choosing keys for encryption in SSH. Implement 3 of them.
 ##### rsa generate
-![alt text](/m1/task5.2/screenshots/15.png) 
+![alt text](/m1/task5.3/screenshots/15.png) 
 ## add pub key to authorized_keys
-![alt text](/m1/task5.2/screenshots/16.png) 
+![alt text](/m1/task5.3/screenshots/16.png) 
 ## login to server
-![alt text](/m1/task5.2/screenshots/17.png) 
+![alt text](/m1/task5.3/screenshots/17.png) 
 ##### ecdsa 
 ##### ed25519 generate
-![alt text](/m1/task5.2/screenshots/19.png) 
+![alt text](/m1/task5.3/screenshots/19.png) 
 ## dsa have problem witch conection to sever
+![alt text](/m1/task5.3/screenshots/20.png) 
 ## Change ssh port to 1715
-![alt text](/m1/task5.2/screenshots/18.png) 
+![alt text](/m1/task5.3/screenshots/18.png) 
 ##### 4. Implement port forwarding for the SSH client from the host machine to the guest Linux
 ##### virtual machine behind NAT.
 ##### 5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the
 ##### server using ssh, telnet, rlogin. Analyze the result.
-
+![alt text](/m1/task5.3/screenshots/21.png) 
 
 
