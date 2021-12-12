@@ -51,7 +51,9 @@
 ##### - in this subdirectory create a file containing information about directories
 ##### located in the root directory (using I/O redirection operations);
 ##### - view the created file;
+![alt text](/m1/task5.1/screenshots/14viewthecreatedfile.png)
 ##### - copy the created file to your home directory using relative and absolute  addressing.
+![alt text](/m1/task5.1/screenshots/15copy-the-created-file-to-your-home-directory-using-relative-and-absolute.png)
 ##### - delete the previously created subdirectory with the file requesting removal;
 ##### - delete the file copied to the home directory.
 ##### 6) Perform the following sequence of operations:
@@ -60,8 +62,13 @@
 ##### labwork2;
 ##### - create a hard and soft link to the labwork2 file in the test subdirectory;
 ##### - how to define soft and hard link, what do these concepts;
-##### - change the data by opening a symbolic link. What changes will happen and
-##### why 
+## hard link same as original file, soft that onli link to file to determine L at start of line
+##### - change the data by opening a symbolic link. What changes will happen and why 
+## changes saved in original file
+![alt text](/m1/task5.1/screenshots/16 change-symbolic-link-change-origine-file-beckose-how-linuix-works..png)
 ##### - rename the hard link file to hard_lnk_labwork2;
 ##### - rename the soft link file to symb_lnk_labwork2 file;
 ##### - then delete the labwork2. What changes have occurred and why?
+## hard link save copy of original file
+![alt text](/m1/task5.1/screenshots/18hard-link-save-copy-of-orign-file.png)
+
