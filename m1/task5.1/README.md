@@ -18,4 +18,4 @@
 ## 7) * Describe in plans that you are working on laboratory work 1. Tip: You should
 ## read the documentation for the finger command.
 ## tips that  i am usent doble tap
-![alt text]("/m1/task5.1/screenshots/7 tips iam usent tap tap.png")
+![alt text]('/m1/task5.1/screenshots/7 tips iam usent tap tap.png')
