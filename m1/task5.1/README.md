@@ -1,4 +1,4 @@
-## passwd change file
+## passwd change file /etc/shadow 
 ![alt text](/m1/task5.1/screenshots/1.png) 
 ## Determine the users registered in the system 
 ![alt text](/m1/task5.1/screenshots/2.png)
