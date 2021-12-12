@@ -21,9 +21,9 @@
 ##### 8) * List the contents of the home directory using the ls command, define its files
 ##### and directories. Hint: Use the help system to familiarize yourself with the ls command
 ![alt text](/m1/task5.1/screenshots/d.png)
-## - FIrst colum
-## - = file
-## d = directory
+##### FIrst colum:
+##### - = file
+##### d = directory
 ##### 1) Examine the tree command. Master the technique of applying a template, for
 ##### example, display all files that contain a character c, or files that contain a
 ##### specific sequence of characters. List subdirectories of the root directory up to
@@ -31,8 +31,8 @@
 ##### loking for character "bash"
 ![alt text](/m1/task5.1/screenshots/treebash.png)
 
-# 2) What command can be used to determine the type of file (for example, text or
-# binary)? Give an example.
+##### 2) What command can be used to determine the type of file (for example, text or
+##### binary)? Give an example.
 ![alt text](/m1/task5.1/screenshots/11file.png)
 
 ##### 3) Master the skills of navigating the file system using relative and absolute paths.
@@ -49,7 +49,7 @@
 ##### 5) Perform the following sequence of operations:
 ##### - create a subdirectory in the home directory;
 ##### - in this subdirectory create a file containing information about directories
-##### located in the root directory (using I/O redirection operations);
+#####  located in the root directory (using I/O redirection operations);
 ##### - view the created file;
 ![alt text](/m1/task5.1/screenshots/14viewthecreatedfile.png)
 ##### - copy the created file to your home directory using relative and absolute  addressing.
@@ -65,10 +65,40 @@
 ## hard link same as original file, soft that onli link to file to determine L at start of line
 ##### - change the data by opening a symbolic link. What changes will happen and why 
 ## changes saved in original file
-![alt text](/m1/task5.1/screenshots/16change-symbolic-link-change-origine-file-beckose-how-linuix-works..png)
+![alt text](/m1/task5.1/screenshots/16 change-symbolic-link-change-origine-file-beckose-how-linuix-works..png)
 ##### - rename the hard link file to hard_lnk_labwork2;
 ##### - rename the soft link file to symb_lnk_labwork2 file;
 ##### - then delete the labwork2. What changes have occurred and why?
 ## hard link save copy of original file
 ![alt text](/m1/task5.1/screenshots/18hard-link-save-copy-of-orign-file.png)
 
+##### 7) Using the locate utility, find all files that contain the squid and traceroute sequence.
+![alt text](/m1/task5.1/screenshots/19locatesquidandtraceroute.png)
+
+##### 8) Determine which partitions are mounted in the system, as well as the types of these partitions.
+![alt text](/m1/task5.1/screenshots/20Determine.png)
+
+##### 9) Count the number of lines containing a given sequence of characters in a given file.
+![alt text](/m1/task5.1/screenshots/wc.png)
+
+##### 10) Using the find command, find all files in the /etc directory containing the host character sequence.
+![alt text](/m1/task5.1/screenshots/22find.png)
+
+##### 11) List all objects in /etc that contain the ss character sequence. How can I
+##### duplicate a similar command using a bunch of grep?
+![alt text](/m1/task5.1/screenshots/23.png)
+
+##### 12) Organize a screen-by-screen print of the contents of the /etc directory. Hint:
+##### You must use stream redirection operations.
+![alt text](/m1/task5.1/screenshots/24---12).png)
+
+##### 13) What are the types of devices and how to determine the type of device? Give examples.
+##### There are two types: virtual and physical
+##### virtual:tty, 
+##### physical: hd sd..
+![alt text](/m1/task5.1/screenshots/25----14).png)
+##### 14) How to determine the type of file in the system, what types of files are there?
+##### df -Th ,Types: ext4,tmpfs,squashfs
+
+##### 15) * List the first 5 directory files that were recently accessed in the /etc  directory
+![alt text](/m1/task5.1/screenshots/26------15).png)
