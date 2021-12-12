@@ -65,7 +65,7 @@
 ## hard link same as original file, soft that onli link to file to determine L at start of line
 ##### - change the data by opening a symbolic link. What changes will happen and why 
 ## changes saved in original file
-![alt text](/m1/task5.1/screenshots/16 change-symbolic-link-change-origine-file-beckose-how-linuix-works..png)
+![alt text](/m1/task5.1/screenshots/16change-symbolic-link-change-origine-file-beckose-how-linuix-works..png)
 ##### - rename the hard link file to hard_lnk_labwork2;
 ##### - rename the soft link file to symb_lnk_labwork2 file;
 ##### - then delete the labwork2. What changes have occurred and why?
