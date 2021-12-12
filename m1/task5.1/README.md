@@ -14,7 +14,7 @@
 ![alt text](/m1/task5.1/screenshots/who-a.png)
 ##  6) Explore the more and less commands using the help system. View the contents
 ## of files .bash* using commands.
-![alt text](/m1/task5.1/screenshots/6.png)
+![alt text](/m1/task5.1/screenshots/654.png)
 ## 7) * Describe in plans that you are working on laboratory work 1. Tip: You should
 ## read the documentation for the finger command.
 ## tips that  i am usent doble tap
