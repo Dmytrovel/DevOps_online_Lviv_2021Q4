@@ -1,0 +1,4 @@
+What are the types of devices and how to determine the type of device?
+There are two types virtual and pfisikal
+virtual:tty, 
+hardware hd
