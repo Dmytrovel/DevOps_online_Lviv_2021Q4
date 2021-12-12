@@ -90,15 +90,15 @@
 
 ##### 12) Organize a screen-by-screen print of the contents of the /etc directory. Hint:
 ##### You must use stream redirection operations.
-![alt text](/m1/task5.1/screenshots/24---12).png)
+![alt text](/m1/task5.1/screenshots/24.png)
 
 ##### 13) What are the types of devices and how to determine the type of device? Give examples.
 ##### There are two types: virtual and physical
 ##### virtual:tty, 
 ##### physical: hd sd..
-![alt text](/m1/task5.1/screenshots/25----14).png)
+![alt text](/m1/task5.1/screenshots/25.png)
 ##### 14) How to determine the type of file in the system, what types of files are there?
 ##### df -Th ,Types: ext4,tmpfs,squashfs
 
 ##### 15) * List the first 5 directory files that were recently accessed in the /etc  directory
-![alt text](/m1/task5.1/screenshots/26------15).png)
+![alt text](/m1/task5.1/screenshots/26.png)
