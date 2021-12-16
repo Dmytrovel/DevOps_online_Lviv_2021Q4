@@ -16,7 +16,7 @@
 ##### find out ip epam.com
 ![alt text](/m1/task6.1/screenshots/9.png)
 ##### check route
-![alt text](/m1/task6.1/screenshots/10.png)
+![alt text](/m1/task6.1/screenshots/route.png)
 ##### tracert to goole.com
 ![alt text](/m1/task6.1/screenshots/11.png)
 
