@@ -2,7 +2,7 @@
 ![alt text](/m1/task6.1/screenshots/1.png) 
 ##### add default route
 ![alt text](/m1/task6.1/screenshots/2.png)
-##### add internal ip adress and check ping
+##### add internal ip adress to vm1 and check ping
 ![alt text](/m1/task6.1/screenshots/3.png)
 
 ##### Configure nat
