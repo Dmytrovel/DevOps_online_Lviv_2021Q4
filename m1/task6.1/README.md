@@ -17,7 +17,7 @@
 ![alt text](/m1/task6.1/screenshots/9.png)
 ##### check route
 ![alt text](/m1/task6.1/screenshots/route.png)
-#### tracert to goole.com , wrong subnet chenged later
+#### tracert to goole.com , wrong subnet changed later
 ![alt text](/m1/task6.1/screenshots/11.png)
 
 
