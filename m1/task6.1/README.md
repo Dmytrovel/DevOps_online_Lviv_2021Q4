@@ -4,8 +4,7 @@
 ![alt text](/m1/task6.1/screenshots/2.png)
 ##### add internal ip adress and check ping
 ![alt text](/m1/task6.1/screenshots/3.png)
-##### check route  
-![alt text](/m1/task6.1/screenshots/4.png)
+
 ##### Configure nat
 ![alt text](/m1/task6.1/screenshots/5.png)
 ##### restart network
