@@ -1,1 +1,19 @@
+#!/bin/bash
+
+backup_files="/home/ubuntu/task7.1/files"
+dest="/home/ubuntu/task7.1/backup"
+
+day=$(date +%A)
+hostname=$(hostname -s)
+archive_file="$hostname-$day.tgz"
+
+echo "Backing up $backup_files to $dest/$archive_file"
+date
+echo
+
+tar czf $dest/$archive_file $backup_files
+
+echo "Backup finished"
+date
+
 
