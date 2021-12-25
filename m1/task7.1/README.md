@@ -1,3 +1,8 @@
+### TASK A 
+####  --all  scan local subnet   
+####  --target ip_address 
+
+
 ### TASK B
 #### 1. From which ip were the most requests? 
 ##### cat example_log.log  | awk '{print $1}' | sort | uniq -c |sort -nr | head -n 10
