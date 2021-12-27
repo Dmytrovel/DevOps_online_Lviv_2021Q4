@@ -26,3 +26,4 @@
 ### TASK C
 #### First parameter path to the syncing directory. /home/user1
 #### Second parameter The path to the directory where the copies of the files will be stored /mnt/files
+![alt text](/m1/task7.1/screenshots/cronttab.png) 
