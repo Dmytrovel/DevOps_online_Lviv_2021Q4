@@ -35,7 +35,7 @@ portscan "$remote"
 
 if [ -z "$1" ]
   then
-    echo "No argument supplied \* $*"
+    echo no argument  \* $*
     exit
 fi
 
