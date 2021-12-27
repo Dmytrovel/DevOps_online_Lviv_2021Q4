@@ -24,5 +24,5 @@
 ##### cat example_log.log  |  awk  /bot/ | grep ru | awk '{print $1 " " $16}' | uniq -u
 
 ### TASK C
-#### First parameter path to the syncing directory.
-#### Second parameter The path to the directory where the copies of the files will be stored.
+#### First parameter path to the syncing directory. /home/user1
+#### Second parameter The path to the directory where the copies of the files will be stored /mnt/files
