@@ -48,9 +48,11 @@ https://github.com/Dmytrovel/DevOps_online_Lviv_2021Q4/blob/main/m1/task2.2/TASK
 ![alt text](/m1/task2.2/screenshots/12v2.png) 
 ##### 13 Explore the possibilities of creating your own domain and domain name for your site.
 ![alt text](/m1/task2.2/screenshots/13.2.png) 
+##### associate elastic ip
 ![alt text](/m1/task2.2/screenshots/13.3.png) 
-![alt text](/m1/task2.2/screenshots/13.4.png)
 ##### write dns record A
+![alt text](/m1/task2.2/screenshots/13.4.png)
+##### check
 ![alt text](/m1/task2.2/screenshots/13.5.png) 
 ##### 14 Deploy Docker Containers on Amazon Elastic
 ##### Container Service (Amazon ECS). Repeat, create a cluster, and run the online demo
