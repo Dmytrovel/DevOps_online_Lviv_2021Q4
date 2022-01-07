@@ -6,7 +6,7 @@ First part
 https://github.com/Dmytrovel/DevOps_online_Lviv_2021Q4/blob/main/m1/task2.2/TASK%202.2.docx%20(1).pdf
 
 
-##### 12
+##### 11
 ![alt text](/m1/task2.2/screenshots/12.1.png) 
 ![alt text](/m1/task2.2/screenshots/12.2.png) 
 ![alt text](/m1/task2.2/screenshots/12.3.png) 
