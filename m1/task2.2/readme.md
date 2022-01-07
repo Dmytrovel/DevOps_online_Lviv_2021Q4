@@ -48,7 +48,7 @@ https://github.com/Dmytrovel/DevOps_online_Lviv_2021Q4/blob/main/m1/task2.2/TASK
 ![alt text](/m1/task2.2/screenshots/12v2.png) 
 ##### 13 Explore the possibilities of creating your own domain and domain name for your site.
 ![alt text](/m1/task2.2/screenshots/13.2.png) 
-##### associate elastic ip
+##### associate elastic ip with wm
 ![alt text](/m1/task2.2/screenshots/13.3.png) 
 ##### write dns record A
 ![alt text](/m1/task2.2/screenshots/13.4.png)
