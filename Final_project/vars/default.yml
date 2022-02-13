@@ -1,0 +1,8 @@
+---
+#System Settings
+
+#MySQL Settings
+mysql_root_password: "wordpress"
+mysql_db: "wordpress"
+mysql_user: "wordpress"
+mysql_password: "wordpress"
