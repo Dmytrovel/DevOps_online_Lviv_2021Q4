@@ -5,5 +5,5 @@ Merge two branches images and styles into develop after merget develop to master
 
 devops is someone who automate environment for developers, main point by using continuous integration and continuous delivery tools for faster production cod
   
-                        Jenkins pipline
-https://github.com/Dmytrovel/DevOps _online_Lviv_2021Q4/tree/main/Final_project
+                        Final
+https://github.com/Dmytrovel/DevOps_online_Lviv_2021Q4/tree/main/Final_project
