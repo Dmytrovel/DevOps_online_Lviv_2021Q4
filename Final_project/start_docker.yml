@@ -1,0 +1,7 @@
+---
+- hosts: docker
+
+  tasks:
+
+    - name: "start docker"
+      shell : cd /home/azureuser/docker/composer ; docker-compose up -d
