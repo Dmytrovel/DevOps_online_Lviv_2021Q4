@@ -38,21 +38,19 @@
     - name: "ln"
       shell :  ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 
+
     - name: "compose"
       shell : mkdir -p  /home/azureuser/docker/wordpress
+
 
     - name: "mkdir"
       shell : mkdir -p /home/azureuser/docker/composer
 
-    - name: "gihub"
-      shell : git clone https://github.com/Dmytrovel/wordpress.git
+    - name: "chmod"
+      shell : chmod -R 777 /home/azureuser/docker/wordpress
 
-    - name: "cp"
-      shell : cp wordpress/docker-compose.yml /home/azureuser/docker/composer
+    - name: "chmod1"
+      shell : chmod -R 777 /home/azureuser/docker/composer
 
-    - name: "cp"
-      shell : cp -R wordpress/ /home/azureuser/docker/
 
-    - name: "cd"
-      shell : cd /home/azureuser/docker/composer ; docker-compose up -d
 
